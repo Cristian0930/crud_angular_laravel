@@ -6,6 +6,6 @@ copy .env.example to .env
 php artisan key:generate
 php artisan migrate --seed
 
-#angular
+# Angular
 npm install
 ng serve -o
